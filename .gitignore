@@ -15,7 +15,6 @@ wp-content/themes/*/.env
 # ignore compiled files
 wp-content/themes/*/dist
 wp-content/themes/*/.sass-cache
-wp-content/themes/*/style.css
 wp-content/themes/*/style.css.map
 
 # ignore Editor files
